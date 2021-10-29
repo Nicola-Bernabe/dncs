@@ -299,7 +299,7 @@ First you download the libraries and then you need to create an index.html page,
 -Install Vagrant 
 
 -Clone this repository ~$
--       git clone https://github.com/Nicola-Bernabe/dncs-lab-funzionante-e-pronto-main
+-       git clone https://github.com/Nicola-Bernabe/dncs.git
 
 
 

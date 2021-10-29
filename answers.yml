@@ -2,7 +2,7 @@ FirstName:  Nicola Mattia
 LastName: Bernabe' Strada
 MatriculationNumber: 192582 188031
 AcademicYear: 2019-2020
-GitHubUrl: YourGithubRepositoryURL
+GitHubUrl: https://github.com/Nicola-Bernabe/dncs.git
 Subnets:
   HostsA:
     RequiredAddresses: 495
